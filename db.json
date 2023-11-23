@@ -39,7 +39,7 @@
       "email": "john@example.com",
       "password": "password",
       "profession": "Web Developer",
-      "skills": ["HTML", "CSS", "JavaScript"],
+      "skills": ["HTML", "CSS", "JavaScript","React"],
       "hourly_rate": 25,
       "profile_picture": "https://i.pinimg.com/736x/97/31/02/9731022f0be7c965e880505461643850.jpg",
 			"isBooked" : false
